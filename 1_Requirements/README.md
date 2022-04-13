@@ -10,5 +10,4 @@
 -	Diet Data processing
 -	User nutrition counseling
 -	Efficient user handling
-
-
+ 
