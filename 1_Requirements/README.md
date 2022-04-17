@@ -39,3 +39,23 @@
 ## SWOT Analysis
 
 ![SWOT Analysis](https://user-images.githubusercontent.com/63278683/163723550-ceb1adf7-57da-4bb7-a3d2-392ddbf21c59.png)
+
+## 5-W's and 1-H
+
+WHAT:
+	Dietitian Bot is a device which is used to calculates the human diet.
+      
+WHEN:
+	Dietitian Bot is used when we need to perform any action that the Diet bot can do in a easy way.
+	
+WHERE:
+	It can be used by male and female where the bot as the feature of Gender.
+
+WHO:
+	Dietitian Bot can be controlled by anyone who have the access to calculate their diet.
+
+WHY:
+	We use Dietitian Bot to ensure nutral food consumption, we can use it control calarioes anywhere .
+	
+HOW:
+	We use programming language like python, software like Visual Studio Code and Github and operating system like Linux to implement Dietitian Bot.The online artificial dietician is a bot with artificial intelligence about human diets. It acts as a diet consultant similar to a real dietician. 
