@@ -11,3 +11,27 @@
 -	User nutrition counseling
 -	Efficient user handling
  
+ ## High Level Requirements
+|  ID | Description  | Status  |
+|---|---|---|
+| HLR1 | Home Page |	to be done |
+| HLR2 | Login Page| to be done |
+| HLR3 | Registration page | to be done |
+| HLR4 | Unique data will be taken for all the objects | to be done  |
+
+## LOW LEVEL REQUIREMENTS
+|TEST ID|Home Page|
+|---|---|
+|LL01|User will register as a new user|
+|LL02|Registered user will Login with credentials|
+
+
+|TEST ID|Registration Page|
+|---|---|
+|LL01|Name, Phone number, registration ID|
+|LL02|Gender,Username and password|
+
+|TEST ID|Login page|
+|---|---|
+|LL01|Valid user will be redirected to Dititian plan page|
+|LL02|Non valid user will get user not found error|
