@@ -35,3 +35,7 @@
 |---|---|
 |LL01|Valid user will be redirected to Dititian plan page|
 |LL02|Non valid user will get user not found error|
+
+## SWOT Analysis
+
+![SWOT Analysis](https://user-images.githubusercontent.com/63278683/163723550-ceb1adf7-57da-4bb7-a3d2-392ddbf21c59.png)
